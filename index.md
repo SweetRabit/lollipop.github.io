@@ -1,9 +1,10 @@
 ## Welcome to My Homepage!
 
 ### About Me
-I am Xuan Qian from Renmin University of China, a second-year Master student majoring in Philosophy, Politics, and Economy. I received my B.A. degree in School of Foreign Studies, China University of Mining and Technology in 2020.
 
-<img src='./assets/images/photo.jpg' width='200px' style="float:right">
+<img src='./assets/images/photo.jpg' width='240px' style="float:right">
+
+I am Xuan Qian from Renmin University of China, a second-year Master student majoring in Philosophy, Politics, and Economy. I received my B.A. degree in School of Foreign Studies, China University of Mining and Technology in 2020.
 
 I am eager to learn knowledge and do research about Communication Study. My research interests include communication behaviors in computer-mediated communication (CMC). I am motivated to explore:
 * Harbermas's Theories.
