@@ -17,6 +17,26 @@ I am eager to learn knowledge and do research about Communication Study. My rese
 ### Portfolio
 Some of my previous works are listed below.
 #### Short Video Manufacturing in Haifeng Media
+I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, is the largest journalistic magazine in China. My group produces short videos, which introduce knowledge and skills to tend and educate young kids. I am responsible for content planning, script writing, video shooting, and video editing. We publish the short video on multiple platforms, e.g., Douyin (Chinese version of TikTok). A partial list is as follows:
+* Title: Is your kid turning a people-pleaser?
+  
+  Video link: [https://v.douyin.com/RVQ4jR7/](https://v.douyin.com/RVQ4jR7/)
+* Title: Motivate kids to brush teeth actively.
+  
+  Video link: [https://v.douyin.com/RVQH2jN/](https://v.douyin.com/RVQH2jN/)
+* Title: Practical method to tend hyper kids
+
+  Video link: [https://v.douyin.com/RVQ3WEV/](https://v.douyin.com/RVQ3WEV/)
+
+* Title: Still use fingers to teach kids counting? Learn some new ways!
+
+  Video link: [https://v.douyin.com/RVCU7on/](https://v.douyin.com/RVCU7on/)
+  
+* Title: Places where only kids can discover!
+ 
+  Video link: [https://v.douyin.com/RVCcJ8U/](https://v.douyin.com/RVCcJ8U/)
+
+The next part introduces my work, design, effort to produce these short videos. 
 
 #### Campus News Report
 During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,*China Coal News*, *CUMT News*, official website of School of Foreign Studies in CUMT,*College Student Newspaper*, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
