@@ -16,7 +16,7 @@ I am eager to learn knowledge and do research about Communication Study. My rese
 
 ### Portfolio
 Some of my previous works are listed below.
-#### Short Video Manufacturing in Haifeng Media
+#### Produce Short Videos in [Haifeng Media](http://www.vistastory.com/index.html#/)
 I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, is the largest journalistic magazine in China. My group produces short videos, which introduce knowledge and skills to tend and educate young kids. I am responsible for content planning, script writing, video shooting, and video editing. We publish the short video on multiple platforms, e.g., Douyin (Chinese version of TikTok). A partial list is as follows:
 * Title: Is your kid turning a people-pleaser?
   
