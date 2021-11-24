@@ -17,11 +17,11 @@ Some of my previous works are listed below.
 
 #### Campus News Report
 During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,*China Coal News*, *CUMT News*, official website of School of Foreign Studies in CUMT,*College Student Newspaper*, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
-* http://xwzx.cumt.edu.cn/be/fe/c523a507646/page.htm
-* http://sfs.cumt.edu.cn/d6/7f/c1018a513663/page.htm
-* http://www.cwestc.com/newshtml/2017-11-27/485978.shtml
-* http://www.dxswb.com/shijian/107307.html
-* https://mp.weixin.qq.com/s/TTqV1fAC7aebAQXUIWBgOA
-* https://mp.weixin.qq.com/s/O2riqfmSM95NOSIazWT6JQ
-* https://mp.weixin.qq.com/s/60vZBkXEI7LmjjkG7YcICg
-* https://mp.weixin.qq.com/s/q4mjJUYc9BI3V_GG4P10ww
+* [http://xwzx.cumt.edu.cn/be/fe/c523a507646/page.htm](http://xwzx.cumt.edu.cn/be/fe/c523a507646/page.htm)
+* [http://sfs.cumt.edu.cn/d6/7f/c1018a513663/page.htm](http://sfs.cumt.edu.cn/d6/7f/c1018a513663/page.htm)
+* [http://www.cwestc.com/newshtml/2017-11-27/485978.shtml](http://www.cwestc.com/newshtml/2017-11-27/485978.shtml)
+* [http://www.dxswb.com/shijian/107307.html](http://www.dxswb.com/shijian/107307.html)
+* [https://mp.weixin.qq.com/s/TTqV1fAC7aebAQXUIWBgOA](https://mp.weixin.qq.com/s/TTqV1fAC7aebAQXUIWBgOA)
+* [https://mp.weixin.qq.com/s/O2riqfmSM95NOSIazWT6JQ](https://mp.weixin.qq.com/s/O2riqfmSM95NOSIazWT6JQ)
+* [https://mp.weixin.qq.com/s/60vZBkXEI7LmjjkG7YcICg](https://mp.weixin.qq.com/s/60vZBkXEI7LmjjkG7YcICg)
+* [https://mp.weixin.qq.com/s/q4mjJUYc9BI3V_GG4P10ww](https://mp.weixin.qq.com/s/q4mjJUYc9BI3V_GG4P10ww)
