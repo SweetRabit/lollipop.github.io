@@ -35,7 +35,7 @@ I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, i
  
   Video link: [https://v.douyin.com/RVCcJ8U/](https://v.douyin.com/RVCcJ8U/)
 
-The next part introduces my work, design, effort, target to produce these short videos. 
+<font color=blue>The next part introduces my work, design, effort, target to produce these short videos. </font>
 #### Product Positioning
 The brand name of our videos is Story-Spaceship, and the slogan is to let stories and books accompany children's growth. The goal of video is to expand brand influence and promote the transformation of existing magazines into new media field. At the same time, we recommend picture books to children from the perspective of professional editors to help children solve problems in their growth and let young parents grow up with their children.
 
