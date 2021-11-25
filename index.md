@@ -76,9 +76,19 @@ The equipment for shooting includes tripod, light supplement lamp, voice-recepto
 
 We design and imagine a character, who can attract people's attention and introduce the educated-related topics naturally, as the speaker of our videos. The speaker we design is a magazine editor who has read a lot of picture books and is friendly to children. Later we choose the person closet to this figure in our office. She is beautiful and professional with sweet voice.
 
+#### Metrics for Video Editing
+* **Cohenrency**. Videos are composed of different segments, e.g., teller introductions and picture book presentations. The most basic metric is to ensure the continuity of each part. We used professional editing software, e.g., *Adobe Premiere*, to edit each frame at the juncture of each part. We also use transition techniques, e.g., fade in, shallow out, and leave blank, to switch to different section. 
+* **Consistency**. Music, subtitles, cover, light, and other elements are crucial. We select various music according to different themes of the videos, e.g., cheerful, relaxed and lyrical music. We choose different filters, brightness, subtitle size according to the condtions of picture books. We do fine tuning to keep the overall style consistent.
+* **Uniqueness**.  Like a distinctive soundtrack with the reprensentative beginning or end, we choose a special gesture and a representative sentence as our sign, and adopt a fixed cover page. This will give users a mindset that every time they see something like this, they'll think of our video.
 
+#### Observe People's Reaction and Give Analysis
+Analyze the number of views, likes, and shares of each video. For videos with abundant views and likes, we summarize their successful reasons, e.g., appropriate topic selection, attractive introduction, and high-quality books. For videos with few views and likes, we carefully analyze the second at which viewers turn off the video. If they exit at the beginning, it means they are not interested in the topic of the video. If they quit at the introduction part, it means the introduction has not attracted the users. If they watch the whole video but not give a like to it, it means that the end of the video doesn't touch the viewer and the values we want to convey don't resonate with them. Based on such analysis, we learn lessons from published videos and make better ones.
 
+#### Video Promotion Strategies
 
+Considering our target groups are young parents with the prefernce to browse videos at fast pace, we chose Douyin, the Chinese version of TikTok, as the main issuing platform. Since WeChat is extremely popular in China, we also put our videos on WeSee, the official video platform of WeChat, to increase exposure as much as possible.
+
+Reward mechanisms are adopted to attract users. For example, users can participate in the lottery if they share the video, and they can receive picture books as gifts if they actively participate in the interaction. At the same time, we livestream to communicate about young parents' daily concerns, which makes our user portraits more accurate and sets up good reputation for our brand .
 
 
 ### 2. Campus News Report
