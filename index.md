@@ -37,17 +37,28 @@ I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, i
 
 <font color=blue>The next part introduces my work, design, effort, target to produce these short videos. </font>
 #### Product Positioning
-The brand name of our videos is Story-Spaceship, and the slogan is to let stories and books accompany children's growth. The goal of video is to expand brand influence and promote the transformation of existing magazines into new media field. At the same time, we recommend picture books to children from the perspective of professional editors to help children solve problems in their growth and let young parents grow up with their children.
+The brand name of our videos is Story-Spaceship, and the slogan is to let stories and books accompany children's growth. The goal of video is to expand brand influence and promote the transformation of existing magazines into new media field. At the same time, we recommend picture books to children from the perspective of professional editors to help children solve problems in their growth and let young parents accompany their children.
 
-According to the characteristics of our company and the existing work basis, the video focuses on children's education, including recommending picture books, shaping children's character, forming children's behavior habits and providing parents with education methods, etc.
+According to the characteristics of our company and the existing work basis, the video focuses on children's education, including recommending picture books, shaping children's character, forming children's behavior habits, providing parents with education methods, etc.
 
 The targeted users are young parents and people engaged in children's education. For example:
 * Urban white-collar workers with high salaries but busy work have no time to tell stories or choose books for their children. These people have purchasing power but no time. Picture books or educational methods we recommend can meet their needs.
-* New parents have no idea to solve the problems their children encounter in the process of growth, such as how to solve their children's bad emotion. We solve one specific problem in each video, and the young parents can understand it by watching video.
-* Preschool teachers can enrich their vision and teaching methods. We recommend the method of learning numbers in a video, which can be applied to their ordinary teaching.
+* New parents have no idea to solve the problems their children encounter in growth, such as how to mitigate their children's bad emotions. We introduce some techniques aiming at solving one specific problem in each video, which can provide useful and practical advice for beginner parents.
+* Preschool teachers can enrich their visions and teaching methods. We recommend the method of learning numbers in a video, which can be applied to their ordinary teaching.
 
-An effective way to establish reasonable goals is to target competitive videos and analyze their video statistics. Through analysis, we set up two goals. The first is to increase the views and likes of our videos. The long-term goal is at least 10,000 likes for each video, but we allow the existence of low attention in the early stage. The second is the commercial transformation ability. With the development of video, it is expected to make certain profits by selling picture books.
+An effective way to establish reasonable goals is to follow competitive videos and analyze their video statistics. Through comparisons, we set up two goals. The first is to increase the views and likes of our videos. The long-term goal is at least 10,000 likes for each video, but we allow the existence of low attention in the early stage. The second is strong profitability. With the development of video, it is expected to make money by selling picture books.
 #### Considerations for Scriptwriting
+I choose the topic and the introduced picture book of the video based on several principles. 
+
+The selection of the topic is based on:
+*  recent festivals and hot topics, e.g., on the Winter Solstice in China, we published a video to introduce a popular science book about the 24 Solar Terms.
+*  the body structure. From head to foot, we introduce the problems that children need to pay attention to, e.g., caring for eyes, paying attention to hygiene when sneezing, and protecting teeth.
+*  the qualities to ensure children's healthy and happy growth. These qualities include friendship, creativity, emotional management, etc..
+
+The selection of the picture book is based on:
+* whether the picture books themselves are attractive, e.g., whether the words are beautiful and the pictures are vivid.
+* whether the publisher is authoritative. Books from well-known publishers at home and abroad are generally authoritative, e.g., *Walker*, *Random*, and *Scholastic*.
+* whether the picture books win awards, e.g., *the award of Hans Christian Andersen Award*, *Caldecott Medal*, and *Kate Greenaway Medal*.  
 
 ### Campus News Report
 During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,*China Coal News*, *CUMT News*, official website of School of Foreign Studies in CUMT,*College Student Newspaper*, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
