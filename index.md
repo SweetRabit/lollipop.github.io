@@ -10,6 +10,7 @@ I am eager to learn knowledge and do research about Communication Study. My rese
 * the relations of people's interaction behaviors and big data, the extent to which people fall into the communication traps, and the reasons why people fail to escape from the manipulation.
 * the alienation of female communication behaviors in the era of big data characterized by the symbolization of female body and the erosion of female subjectivity.
 
+[Here](./assets/files/CV_XuanQian.pdf) is my CV.
 
 ## Portfolio
 Some of my previous works are listed below.
