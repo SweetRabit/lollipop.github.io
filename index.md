@@ -36,10 +36,10 @@ I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, i
  
   Video link: [https://v.douyin.com/RVCcJ8U/](https://v.douyin.com/RVCcJ8U/)
 
-<span class="reminder"> I summerize the experience, acquired skills, etc. of my internship and write a [<a href="./video">blog</a>]</span>
+<span class="reminder"> I summerize the experience, acquired skills, etc. of my internship and write a [<a href="./video">blog</a>].</span>
 
 ### 3. Campus News Report
-During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,*China Coal News*, *CUMT News*, official website of School of Foreign Studies in CUMT,*College Student Newspaper*, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
+During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,<a href="http://www.cwestc.com/index.aspx">China Coal News</a>, <a href="http://xwzx.cumt.edu.cn/main.htm">CUMT News</a>, <a href="http://sfs.cumt.edu.cn/main.htm">official website</a> of School of Foreign Studies in CUMT, <a href="http://www.dxswb.com/">College Student Newspaper</a>, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
 * [http://xwzx.cumt.edu.cn/be/fe/c523a507646/page.htm](http://xwzx.cumt.edu.cn/be/fe/c523a507646/page.htm)
 * [http://sfs.cumt.edu.cn/d6/7f/c1018a513663/page.htm](http://sfs.cumt.edu.cn/d6/7f/c1018a513663/page.htm)
 * [http://www.cwestc.com/newshtml/2017-11-27/485978.shtml](http://www.cwestc.com/newshtml/2017-11-27/485978.shtml)
