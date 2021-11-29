@@ -36,7 +36,7 @@ I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, i
  
   Video link: [https://v.douyin.com/RVCcJ8U/](https://v.douyin.com/RVCcJ8U/)
 
-<font color=blue>I summerize the experience, acquired skills, etc. of my internship and write a </font> [blog](https://www.xuanq.com/video) 
+<span class="reminder"> I summerize the experience, acquired skills, etc. of my internship and write a [<a href="./video">blog</a>]</span>
 
 ### 3. Campus News Report
 During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,*China Coal News*, *CUMT News*, official website of School of Foreign Studies in CUMT,*College Student Newspaper*, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
