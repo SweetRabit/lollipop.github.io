@@ -14,7 +14,7 @@ I am eager to learn knowledge and do research about Communication Study. My rese
 ## Portfolio
 Some of my previous works are listed below.
 ### 1. Research Proposal
-Under the guidance of Professor [Bo Feng](https://communication.ucdavis.edu/people/bfeng) from the University of California, Davis, I wrote a research proposal about the relation between personality and sse of social software. The research proposal can be found [[here](./assets/files/XuanQian_ResearchProposal.pdf)].
+Under the guidance of Professor [Bo Feng](https://communication.ucdavis.edu/people/bfeng) from the University of California, Davis, I wrote a research proposal about the relation between personality and use of social software. The research proposal can be found [[here](./assets/files/XuanQian_ResearchProposal.pdf)].
 
 ### 2. Produce Short Videos in [Haifeng Media](http://www.vistastory.com/index.html#/)
 I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, is the largest journalistic magazine in China. My group produces short videos, which introduce knowledge and skills to tend and educate young kids. I am responsible for content planning, script writing, video shooting, and video editing. We publish the short video on multiple platforms, e.g., Douyin (Chinese version of TikTok). A partial list is as follows:
@@ -36,7 +36,7 @@ I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, i
  
   Video link: [https://v.douyin.com/RVCcJ8U/](https://v.douyin.com/RVCcJ8U/)
 
-<font color=blue>I summerize the experience, acquired skills, etc. of my internship and write a [blog](https://www.xuanq.com/video) </font>
+<font color=blue>I summerize the experience, acquired skills, etc. of my internship and write a </font> [blog](https://www.xuanq.com/video) 
 
 ### 3. Campus News Report
 During 2016 - 2018, I had been Campus News Reporter and the President of News Department in CUMT. As the writer and photographer, I published a number of news articles online, e.g.,*China Coal News*, *CUMT News*, official website of School of Foreign Studies in CUMT,*College Student Newspaper*, and WeChat official account *FengHuaWaiWen*. A partial list is as follows:
