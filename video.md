@@ -1,6 +1,6 @@
 ## My Experience to Produce Short Videos
 I worked in Haifeng Media to produce short videos. This blog introduces the aims, target groups, experience of, and the designs, skills used in, the video-making process. To watch these videos, please visit [here](https://xuanq.com).
-### A. Product Positioning
+### Product Positioning
 The brand name of our videos is Story-Spaceship, and the slogan is to let stories and books accompany children's growth. The goal of video is to expand brand influence and promote the transformation of existing magazines into new media field. At the same time, we recommend picture books to children from the perspective of professional editors to help children solve problems in their growth and let young parents accompany their children.
 
 According to our company background and the existing works, the video focuses on children's education, including recommending picture books, shaping children's character, forming children's behavior habits, providing parents with education methods, etc.
@@ -11,7 +11,7 @@ The targeted users are young parents and people engaged in children's education.
 * Preschool teachers can enrich their visions and teaching methods. We recommend the method of learning numbers in a video, which can be applied to their ordinary teaching.
 
 An effective way to establish reasonable goals is to follow competitive videos and analyze their video statistics. Through comparisons, we set up two goals. The first is to increase the views and likes of our videos. The long-term goal is at least 10,000 likes for each video, but we allow the existence of low attention in the early stage. The second is strong profitability. With the development of video, it is expected to make money by selling picture books.
-### B. Considerations for Scriptwriting
+### Considerations for Scriptwriting
 I choose the topic and the introduced picture book of the video based on several principles. 
 
 The selection of the topic is based on:
@@ -32,7 +32,7 @@ In the whole process of scriptwriting, we adhere to the principle of reasoning b
 
 At the end of the script, we prefer to convey our thoughts on child development and parenting. The first is to encourage the children to grow up healthily and happily, be brave and confident, and enrich themselves as much as possible. The second is to let the parents invest more love and patience to their children, create a better learning and growth environment for their children, treat their children as friends, and grow together with their children.
 
-### C. Techniques for Video Shooting
+### Techniques for Video Shooting
 
 The background of our video is the office with bookshelves, which can show the editor's identity and professionalism, and let users trust the picture books we recommend. We also shoot picture books in the lounge with a relaxing and casual atmosphere, because most people browse short videos for relaxation.
 
@@ -40,15 +40,15 @@ The equipment for shooting includes tripod, light supplement lamp, voice-recepto
 
 We design and imagine a character, who can attract people's attention and introduce the educated-related topics naturally, as the speaker of our videos. The speaker we design is a magazine editor who has read a lot of picture books and is friendly to children. Later we choose the person closet to this figure in our office. She is beautiful and professional with sweet voice.
 
-### D. Metrics for Video Editing
+### Metrics for Video Editing
 * **Coherency**. Videos are composed of different segments, e.g., teller introductions and picture book presentations. The most basic metric is to ensure the continuity of each part. We used professional editing software, e.g., *Adobe Premiere*, to edit each frame at the juncture of each part. We also use transition techniques, e.g., fade in, shallow out, and leave blank, to switch to different section. 
 * **Consistency**. Music, subtitles, cover, light, and other elements are crucial. We select various music according to different themes of the videos, e.g., cheerful, relaxed and lyrical music. We choose different filters, brightness, subtitle size according to the conditions of picture books. We do fine tuning to keep the overall style consistent.
 * **Uniqueness**.  Like a distinctive soundtrack with the representative beginning or end, we choose a special gesture and a representative sentence as our sign, and adopt a fixed cover page. This will give users a mindset that every time they see something like this, they'll think of our video.
 
-### E. Observe People's Reaction and Give Analysis
+### Observe People's Reaction and Give Analysis
 Analyze the number of views, likes, and shares of each video. For videos with abundant views and likes, we summarize their successful reasons, e.g., appropriate topic selection, attractive introduction, and high-quality books. For videos with few views and likes, we carefully analyze the second at which viewers turn off the video. If they exit at the beginning, it means they are not interested in the topic of the video. If they quit at the introduction part, it means the introduction has not attracted the users. If they watch the whole video but not give a like to it, it means that the end of the video doesn't touch the viewer and the values we want to convey don't resonate with them. Based on such analysis, we learn lessons from published videos and make better ones.
 
-### F. Video Promotion Strategies
+### Video Promotion Strategies
 
 Considering our target groups are young parents with the preference to browse videos at fast pace, we chose Douyin, the Chinese version of TikTok, as the main issuing platform. Since WeChat is extremely popular in China, we also put our videos on WeSee, the official video platform of WeChat, to increase exposure as much as possible.
 
