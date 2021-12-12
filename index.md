@@ -19,6 +19,9 @@ Under the guidance of Professor [Bo Feng](https://communication.ucdavis.edu/peop
 
 ### 2. Produce Short Videos in [Haifeng Media](http://www.vistastory.com/index.html#/)
 I work as an intern in Haifeng Media, whose magazine, *Vista, View the World*, is the largest journalistic magazine in China. My group produces short videos, which introduce knowledge and skills to tend and educate young kids. I am responsible for content planning, script writing, video shooting, and video editing. We publish the short video on multiple platforms, e.g., Douyin (Chinese version of TikTok). A partial list is as follows:
+* Content: Teaser video, aiming to attract people before live streaming.
+
+  Video link: [https://v.douyin.com/RcHtJ1e/](https://v.douyin.com/RcHtJ1e/)
 * Title: Is your kid turning a people-pleaser?
   
   Video link: [https://v.douyin.com/RVQ4jR7/](https://v.douyin.com/RVQ4jR7/)
