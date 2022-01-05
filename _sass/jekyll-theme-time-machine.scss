@@ -59,6 +59,10 @@ p.tagline {
   font-family: "Gill Sans", sans-serif;
 }
 
+p.emph-blue{
+  color: #0000CD;
+}
+
 #main {
   margin-top: 20px;
   padding: 0 20px 90px;
@@ -508,6 +512,3 @@ footer .owner p a {
 
 @import "rouge-base16-dark";
 
-p.emph_blue{
-  color: #0000CD;
-}
