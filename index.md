@@ -4,7 +4,7 @@
 
 I am Xuan Qian from Renmin University of China, a second-year Master student majoring in Philosophy, Politics, and Economy. I received my B.A. degree in School of Foreign Studies, China University of Mining and Technology in 2020.
 
-Now I am an exchange student at the Univiersity of California, Davis, learning communication-related knowledge.
+<p class='emph_blue'>Now I am an exchange student at the Univiersity of California, Davis, learning communication-related knowledge.</p>
 
 I am eager to learn knowledge and do research about Communication Study. My research interests include interpersonal communication, epecially the communication behaviors in computer-mediated communication (CMC). I am motivated to explore:
 * the processes through which people conduct and respond to various forms of information, and the variations of these processes for people of different cultures, social contexts, etc.
